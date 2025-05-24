@@ -55,7 +55,7 @@ body {
     padding: var(--spacing-300);
     border-radius: var(--spacing-100);
     position: relative;
-    margin-block-start: 23%;
+    margin-block-start: 10%;
 }
 
 .bg-img {
